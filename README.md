@@ -1,4 +1,4 @@
-Spring Boot Project
+Spring Boot Project.
 Sample Json
 {
    "tradeId":"T2",
